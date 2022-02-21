@@ -28,9 +28,11 @@ Your Ionic app is ready! Follow these next steps:
 The below guide was followed: https://dev.to/khromov/build-your-capacitor-android-app-bundle-using-github-actions-24do
 to setup the Github Action Workflow for building the Android App Bundle .AAB
 
-E.G https://github.com/jaya-lexicon-digital/cap-example2/actions/runs/1875811791
+E.G
+- https://github.com/jaya-lexicon-digital/cap-example2/actions
+- https://github.com/jaya-lexicon-digital/cap-example2/actions/runs/1878462896
 
-To convert the AAB to a APK for installation on actual device.
+To convert the created AAB to a APK for installation on actual device.
 
 Refer:  
 https://stackoverflow.com/questions/50419286/install-android-app-bundle-on-device
